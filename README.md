@@ -10,5 +10,5 @@ If you try to use another version THE BOT WILL NOT START.
 (3) Start the bot with "node ." or "pm2 start main.js"
 
 ***Commands***
-!delete (CHANNEL ID) (REASON)
+!delete (MESSAGE ID) (REASON)
 command must be ran in the same channel as the message you want to delete
